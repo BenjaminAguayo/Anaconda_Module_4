@@ -58,11 +58,7 @@ The results sections shows the comparison between each performed analysis, the i
    ![](Resources/Challenge_results/7%20By_school_size_challenge.png)
    
 - How does replacing the ninth-grade scores affect the scores by school type?
-###### *Image 14. Module score by school type*
-   ![](Resources/Module_results/8_By_school_type.png)
 
-###### *Image 15. Challenge score by school type*
-   ![](Resources/Challenge_results/8_By_school_type.png)
 
 
 ##3. Summary
