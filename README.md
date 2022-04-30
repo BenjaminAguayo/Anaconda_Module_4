@@ -65,4 +65,4 @@ The results sections shows the comparison between each performed analysis, the i
    ![](Resources/Challenge_results/8_By_school_type.png)
 
 
-##3. Summary
+## 3. Summary
