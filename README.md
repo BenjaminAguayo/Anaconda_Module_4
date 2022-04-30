@@ -6,6 +6,8 @@ In this analysis  we are asked  to perform anew analysis not taking in account t
 The results sections shows the comparison between each performed analysis, the images are labeled as "Module results" and "Challenge Results"
 - How is district summary affected?!
 
+As it is shown in Image 1 and 2, by replacing the math and reading scores of the ninth graders of THS, percentage of passing decreases, as the number of students remains te same, but the scores are NaN.
+
 ###### *Image 1. Module District Summary*
    ![](Resources/Module_results/1%20District_summary_Module.png)
 
@@ -14,6 +16,9 @@ The results sections shows the comparison between each performed analysis, the i
 
 - How is the school school summary affected?
 
+As shown in Image 4, After the scores are replaced by Nan, the challenge school summary shows that the percentage of passing students in THS decreases a lot because of the scores of the ninth graders. We need to adjust the correct percentage according to the remaining 10th, 11th and 12th grade in order to get the correct passing percentage shown in Image 5.
+
+After removing the ninth graders, the module and challenge summary are very similar. as can be shown comparing THS values in Image 3 and 5.
 ###### *Image 3. Module School Summary*
    ![](Resources/Module_results/2%20School_summary_Module.png)
 
