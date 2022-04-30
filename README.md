@@ -29,6 +29,8 @@ After removing the ninth graders, the module and challenge summary are very simi
    ![](Resources/Challenge_results/2-1%20School_summary_Challenge.png)
    
 - How does replacing the ninth grader's math and reading scores affect THS's performance relative to the other schools?
+
+There are not changes in the performance relative to the other schools, since the second place is still hold by THS in both scenarios.
 ###### *Image 6. Module Top five schools*
    ![](Resources/Module_results/3%20Top%20five_challenge_Module.png)
 
@@ -36,6 +38,8 @@ After removing the ninth graders, the module and challenge summary are very simi
    ![](Resources/Challenge_results/3%20Top_five_Challenge.png)
 
 - How does replacing the ninth-grade scores affect the math and reading scores by grade?
+
+The scores are very similar even when the ninth graders were removed, as it is shown in Images 8,9,10 and 11.
 ###### *Image 8. Module math scores*
    ![](Resources/Module_results/4%20Math_score_by_grade.png)
 
@@ -71,3 +75,5 @@ After removing the ninth graders, the module and challenge summary are very simi
 
 
 ## 3. Summary
+Even when the ninth graders of THS school were removed from the complete data frame, the values are very similar in all the analysis sections.
+The main reason of this is probably because the distribution of scores are very close  considering the 9th, 10th, 11th and 12th graders. So, If a whole grade is removed, the average values remains very similar.
